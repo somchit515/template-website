@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.px-3 {
+    padding-right: 1rem!important;
+    padding-left: 1rem!important;
+}
+.container.form-signin{
+    display: flex;
+    margin: 0 5rem;
+}
